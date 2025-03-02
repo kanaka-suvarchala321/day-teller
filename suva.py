@@ -12,5 +12,4 @@ elif day==5:
 elif day==6:
     print('saturday')
 else:
-    print('invaild input please provide input between 1-7')
-    day = int(input('enter a day number'))
+    print('invaild input please provide input between 1-7. Please try again')
